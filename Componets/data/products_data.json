@@ -1,0 +1,275 @@
+[
+    {
+        "id": 1,
+        "title": "Volkswagen Vento",
+        "description": "Motor y transmisión: Cilindrada 1984 N° de cilindros y disposición 4 Potencia máxima (CV/rpm) 211",
+        "price": 549,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "brand": "",
+        "category": "Volkswagen",
+        "thumbnail": "https://www.clarin.com/img/2023/09/08/lO-2v3pFU_1256x620__1.jpg",
+        "images": [
+            "https://media.cdn.puntobiz.com.ar/012023/1673618989189.webp?cw=984&ch=553&extw=jpg"
+
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Wolsvagen Bora",
+        "description": "Motor y transmisión: Cilindrada 1.781 N° de cilindros Valvulas 4 20V Potencia 180 CV",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "brand": "",
+        "category": "Volkswagen",
+        "thumbnail": "https://cdn.motor1.com/images/mgl/39A06/s1/el-vw-bora-se-acerca-a-su-fin-y-buscan-sucesor-para-argentina.jpg",
+        "images": [
+            "https://espirituracer.com/archivos/2022/07/volkswagen-bora-1.webp"
+
+        ]
+    },
+    {
+        "id": 3,
+        "title": "wolsvagen up",
+        "description": "Motor y transmisión: Cilindrada: 999 Número de cilindros: 3 Potencia máxima: 75 CV",
+        "price": 1249,
+        "discountPercentage": 15.46,
+        "rating": 4.09,
+        "stock": 36,
+        "brand": "",
+        "category": "Volkswagen",
+        "thumbnail": "https://www.multinversiones.com.ar/wp-content/uploads/2017/02/image0012.jpg",
+        "images": [
+            "https://fotos.perfil.com/2023/01/12/volkswagen-up-gti-1490563.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Wolsvagen Gol Trend",
+        "description": "Motor y transmisión: Cilindrada: 1.599 c.c. Número de Cilindros: 4 Potencia máxima (CV): 101",
+        "price": 280,
+        "discountPercentage": 17.91,
+        "rating": 4.3,
+        "stock": 123,
+        "brand": "",
+        "category": "Volkswagen",
+        "thumbnail": "https://sudamerics.com.ar/wp-content/uploads/2023/03/VW_Gol_Trend-800x600-1.jpg",
+        "images": [
+            "https://sudamerics.com.ar/wp-content/uploads/2023/03/VW_Gol_Trend-800x600-1.jpg"
+            
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Wolsvagen Polo Trend",
+        "description": "Motor y transmisión: Cilindrada: 1.589 c.c. Número de Cilindros: 4 Potencia máxima (CV): 110",
+        "price": 499,
+        "discountPercentage": 10.58,
+        "rating": 4.09,
+        "stock": 32,
+        "brand": "",
+        "category": "Volkswagen",
+        "thumbnail": "https://pxb.cdn.elchubut.com.ar/chubut/032022/1648693299286.jpg",
+        "images": [
+            "https://resizer.iproimg.com/unsafe/880x/filters:format(webp)/https://assets.iprofesional.com/assets/png/2022/09/541876.png"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "fiat punto",
+        "description": "Motor y transmisión: Cilindrada 1.368 N° de cilindros y disposición 4 en linea Potencia máxima (CV/rpm) 85 / 5.750",
+        "price": 1749,
+        "discountPercentage": 11.02,
+        "rating": 4.57,
+        "stock": 83,
+        "brand": "",
+        "category": "Fiat",
+        "thumbnail": "https://cdn.motor1.com/images/mgl/AoBZN/s1/lanzamiento-fiat-punto-2013.jpg",
+        "images": [
+            "https://cdn.motor1.com/images/mgl/AoBZN/s1/lanzamiento-fiat-punto-2013.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Fiat Siena",
+        "description": "Motor y transmisión: Cilindrada: 1598 c.c. Número de Cilindros: 4 Potencia máxima (CV): 115 ",
+        "price": 1499,
+        "discountPercentage": 4.15,
+        "rating": 4.25,
+        "stock": 50,
+        "brand": "",
+        "category": "Fiat",
+        "thumbnail": "https://cdn.buttercms.com/u2qFiQAASIWzoINv6QIx",
+        "images": [
+            "https://motorshow.files.wordpress.com/2007/12/siena2008-004.jpg?w=584"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Fiat Cronos",
+        "description": "Motor y transmisión: Cilindrada:1.332 c.c. Número de Cilindros: 4 Potencia máxima (CV): 99",
+        "price": 1499,
+        "discountPercentage": 10.23,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "",
+        "category": "Fiat",
+        "thumbnail": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/s/RT_V_e3e610f4f4f04acbacbb97b281b49296.webp",
+        "images": [
+            "https://cdn.motor1.com/images/mgl/4yRVq/s1/lanzamiento-fiat-cronos-1-3-attractive-base.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Fiat Mobi",
+        "description": "Motor y transmisión: Cilindrada: 999 c.c. Número de Cilindros: 4 Potencia máxima (CV): 70",
+        "price": 1099,
+        "discountPercentage": 11.83,
+        "rating": 4.54,
+        "stock": 96,
+        "brand": "",
+        "category": "Fiat",
+        "thumbnail": "https://www.megautos.com/wp-content/uploads/2022/03/Fiat-Mobi-Like-2022-delantera.jpg",
+        "images": [
+            "https://blog.karvi.com.ar/wp-content/uploads/2020/10/Mobi-Trekking.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Fiat Argo",
+        "description": "",
+        "price": 1099,
+        "discountPercentage": 6.18,
+        "rating": 4.43,
+        "stock": 89,
+        "brand": "",
+        "category": "Fiat",
+        "thumbnail": "https://www.megautos.com/wp-content/uploads/2020/09/Fiat-Argo-Drive-2021-delantera.jpg",
+        "images": [
+            "https://cdn.motor1.com/images/mgl/myJ44/s1/lanzamiento-fiat-argo-2020.webp"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Toyota Yaris",
+        "description": "Motor y transmisión:  Cilindrada: 1496 c.c. Número de Cilindros: 4 Potencia máxima (CV): 107",
+        "price": 13,
+        "discountPercentage": 8.4,
+        "rating": 4.26,
+        "stock": 65,
+        "brand": "",
+        "category": "Toyota",
+        "thumbnail": "https://media.toyota.com.ar/629ec3dd-9c24-4957-8798-9790c5b31a0c.png",
+        "images": [
+            "https://acnews.blob.core.windows.net/imgnews/large/NAZ_7120146571954e68ae9054868797ed92.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Toyota Hilux",
+        "description": "Motor y transmisión:  Cilindrada: 2.755 c.c. Número de Cilindros: 4 Potencia máxima (CV): 177",
+        "price": 40,
+        "discountPercentage": 15.66,
+        "rating": 4,
+        "stock": 52,
+        "brand": "",
+        "category": "Toyota",
+        "thumbnail": "https://cdn.motor1.com/images/mgl/vkekA/s1/toyota-hilux-2021.jpg",
+        "images": [
+            "https://media.diariouno.com.ar/p/4d66536aa636a887d2d332ed7490c0e7/adjuntos/298/imagenes/009/075/0009075011/1200x0/smart/nueva-pick-up-hiluxjpg.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Chevrolet Corsa",
+        "description": "Motor y transmisión: Cilindrada 1.389 Número de Cilindros: 4 Potencia Máxima (CV): 60",
+        "price": 13,
+        "discountPercentage": 8.14,
+        "rating": 4.59,
+        "stock": 61,
+        "brand": "",
+        "category": "Chevrolet",
+        "thumbnail": "https://fotos.perfil.com/2022/12/15/chevrolet-corsa-1473562.jpg",
+        "images": [
+            "https://conduciendo.com/wp-content/uploads/2017/10/11358.jpg"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Jeep ranegade",
+        "description": "Motor y transmisión:  Cilindrada: 3605 c.c. Número de Cilindros: 4 Potencia máxima (CV): 286",
+        "price": 120,
+        "discountPercentage": 15.6,
+        "rating": 4.21,
+        "stock": 114,
+        "brand": "",
+        "category": "Jeep",
+        "thumbnail": "https://cdn.motor1.com/images/mgl/BXO9Le/s1/jeep-renegade-2022.jpg",
+        "images": [
+            "https://fotos.perfil.com/2022/02/11/jeep-renegade-1311287.jpg"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Chevrolet Cruze",
+        "description": "Motor y transmisión: Cilindrada: 1399 c.c. Número de Cilindros: 4 Potencia máxima (CV): 153",
+        "price": 30,
+        "discountPercentage": 10.99,
+        "rating": 4.7,
+        "stock": 105,
+        "brand": "",
+        "category": "Chevrolet",
+        "thumbnail": "https://www.chevrolet.com.ar/content/dam/chevrolet/mercosur/argentina/espanol/index/cars/2019-cruze-premier/colorizer/enero-21/colorizer-azul-eclipse.jpg?imwidth=960",
+        "images": [
+            "https://cdn.motor1.com/images/mgl/1bRAw/s1/lanzamiento-chevrolet-cruze-lt-2020.jpg"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Ford Ka",
+        "description": "Motor y transmisión: Cilindrada: 1.499 c.c. Número de Cilindros: 3 Potencia Máxima (CV): 123 CV",
+        "price": 19,
+        "discountPercentage": 13.31,
+        "rating": 4.83,
+        "stock": 110,
+        "brand": "",
+        "category": "Ford",
+        "thumbnail": "https://www.clarin.com/img/2016/03/11/r1XImSZcNx_1256x620.jpg",
+        "images": [
+            "https://www.ford.com.ar/content/dam/Ford/website-assets/latam/ar/nameplate/ka/ka-s/billboard/far-ka-s-model-detail-desk.jpg/jcr:content/renditions/small.jpeg"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Ford Raptor",
+        "description": "Motor y transmisión: Cilindrada:3.500 c.c. Número de Cilindros: 6 Potencia máxima (CV):456 ",
+        "price": 12,
+        "discountPercentage": 4.09,
+        "rating": 4.52,
+        "stock": 78,
+        "brand": "",
+        "category": "Ford",
+        "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/2022-next-gen-ranger-raptor-exterior-19-1645513829.jpg",
+        "images": [
+            "https://cdn.motor1.com/images/mgl/6ZzOjr/s1/hennessey-velociraptor-500-ford-ranger-raptor.jpg"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Ford Focus",
+        "description": "Motor y transmisión: Cilindrada: 1599 c.c. Número de Cilindros: 4 Potencia máxima (CV): 125",
+        "price": 40,
+        "discountPercentage": 13.1,
+        "rating": 4.56,
+        "stock": 88,
+        "brand": "",
+        "category": "Ford",
+        "thumbnail": "https://cdn.motor1.com/images/mgl/zzJ7q/s1/4x3/lanzamiento-ford-focus-iii-2017.webp",
+        "images": [
+            "https://www.ford.com.ar/content/dam/Ford/website-assets/latam/ar/ford-credit/nuevo-focus-tasa-especial/Ford-Credit-nuevo-focus_1440x628.jpg/jcr:content/renditions/small.jpg"
+        ]
+    }
+]
